@@ -19,7 +19,7 @@ contract SourdoughRegistry is ERC721, Ownable {
     event MetadataUpdated(uint256 indexed id, string newURI);
     event EventAnchored(uint256 indexed id, bytes32 indexed batchHash, string kind);
 
-    constructor() ERC721("SourdoughStarter", "LEVAIN") {}
+    constructor() ERC721("SourdoughStarter", "SOURDOUGH") {}
 
     // === Internal ID counter ===
     function _nextId() internal returns (uint256) {
