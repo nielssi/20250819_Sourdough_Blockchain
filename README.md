@@ -1,4 +1,4 @@
-# Sourdough Blockchain (Proof-of-Fermentation; N. Sievertsen, PhD)
+# Sourdough Blockchain (Proto)
 
 Monorepo with:
 - `contracts/` — Solidity ERC-721 registry for starters (DAG-friendly metadata).
