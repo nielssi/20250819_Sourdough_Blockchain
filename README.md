@@ -1,4 +1,4 @@
-# Niels Sievertsen — Sourdough Blockchain (Proof-of-Fermentation)
+# Sourdough Blockchain (Proof-of-Fermentation; N. Sievertsen, PhD)
 
 Monorepo with:
 - `contracts/` — Solidity ERC-721 registry for starters (DAG-friendly metadata).
