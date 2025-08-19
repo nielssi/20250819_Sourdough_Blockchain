@@ -1,0 +1,14 @@
+{
+  "name": "levain",
+  "private": true,
+  "workspaces": [
+    "contracts",
+    "api",
+    "web",
+    "app"
+  ],
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev": "echo 'Use workspace scripts, e.g., pnpm --filter api dev'"
+  }
+}
