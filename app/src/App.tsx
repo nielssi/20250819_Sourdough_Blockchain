@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <ScrollView contentContainerStyle={{ padding: 24, gap: 12 }}>
-      <Text style={{ fontSize: 24, fontWeight: '600' }}>Levain (MVP)</Text>
+      <Text style={{ fontSize: 24, fontWeight: '600' }}>Sourdough Blockchain (MVP)</Text>
       <Text>API base</Text>
       <TextInput value={apiBase} onChangeText={setApiBase} style={{ borderWidth: 1, padding: 8 }} />
       <Text>Genesis display name</Text>
